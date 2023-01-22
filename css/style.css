@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;600&display=swap');
+@import "nullstyle.scss";
+body {
+    background: rgb(45, 141, 214);
+}
+.Nazva{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 60px;
+    font-style: italic;
+    margin: 0px 0px 15px 0px;
+}
+.Discord{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 25px;
+    font-style: normal;
+    margin-left: 1500px;
+    margin-top: -245px;
+}
+.quadrat{
+    width: 2000px;
+    height: 100px;
+    background-color: rgb(253, 253, 253);
+    position: absolute;
+    left: 0px;
+    right: 300px;
+    
+}
+.cube2{
+    width: 2000px;
+    height: 100px;
+    background-color: rgb(253, 253, 253);
+    position: absolute;
+    left: 0px;
+    right: 300px;
+    margin-top: 100px;
+}
+.text_cube{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 20px;
+    font-style: normal;
+    margin: 0x 0px 0x 0px;
+}
+.logoimage{
+    
+    margin: -260px 10px 50px 550px;
+}
+.text_about{
+    font-family: "Unbounded";
+    line-height: 0px;
+    font-size: 20px;
+    font-style: italic;
+    margin: 0px 0px 0px 0px;
+}
+.Sozdateli{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 20px;
+    font-style: italic;
+    margin: 0px 0px 20px 0px;
+}
+.data{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 20px;
+    font-style: italic;
+    margin: 700px 0px 20px 0px;
+}
+.Textcube_2{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 20px;
+    font-style: normal;
+}
+.cube3{
+    width: 2000px;
+    height: 150px;
+    background-color: rgb(253, 253, 253);
+    position: absolute;
+    left: 0px;
+    right: 300px;
+    margin-top: 150px;
+}
+.Textcube_3{
+    font-family: "Unbounded";
+    line-height: 5px;
+    font-size: 20px;
+    font-style: normal;
+}
